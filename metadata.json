@@ -1,0 +1,7 @@
+{
+  "name": "YT MARKET - Premium Social Media Asset Marketplace",
+  "description": "Buy and sell verified YouTube Channels, Facebook Pages, and Instagram Accounts with escrow-style transaction protection and transparent audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
